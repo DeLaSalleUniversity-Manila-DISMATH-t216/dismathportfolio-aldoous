@@ -45,4 +45,18 @@ John Aldous A. Galay
    - They are false if a single element is false.
 
 #Week 4
+ - learned some more methods of proving such as direct proof and proof by contrapositive.
+ - 
 
+#week 5
+ - continued with more problems from last week...
+ - and discovered how to prove by contradiction by showing that the negation of a premise is contradictory.
+ - learned about mathematical induction and recursive functions. <- they're confusing.
+
+#Week 6
+ - introduction to sets which is easier than the previous lessons, though only by a little.
+ - union, intersection, and symmetrical difference.
+ - set identities are like those identities I've learned previously so I expect it to be as difficult.
+
+#Week 7
+ - 
