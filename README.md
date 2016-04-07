@@ -55,8 +55,47 @@ John Aldous A. Galay
 
 #Week 6
  - introduction to sets which is easier than the previous lessons, though only by a little.
- - union, intersection, and symmetrical difference.
+ - union, intersection, set difference and symmetrical difference.
+  - union: A ∪ B
+  - intersection: A ∩ B 
+  - set difference: A - B or A \ B 
+  - symmetrical difference: A ∆ B 
  - set identities are like those identities I've learned previously so I expect it to be as difficult.
+ - cardinality isthe number of elements in a set, denoted by |S|.
+  - Alephnull is a cardinality of infinite sets.
 
 #Week 7
- - 
+ - started discussing functions and its types and properties.
+ - they have three types: one-to-one function, onto function, one-to-one correspondence.
+ - one-to-one function, also known as injective, is a fuction that always assigns a value to each domain only once.
+ - onto funtion, also known as surjective, is a function in which all its codomains have a designated value.
+ - one-to-one function, also known as bijective, is a combination of an injective and surjective function.
+ 
+#Week 9
+ - the best part of DISMATH has startedm algorithms.
+ - max() funtion was introduced.
+ - Pseudocodes. 
+ - Building an algorithm requires a precondition, procedure and postcondition.
+ 
+#Week 9
+ - Linear and binary search was introduced to me.
+ - Bubble sort and Insertion sort are two different kinds of sorting algorithms.
+ - Some examples were shown for algorithms.
+ - the greedy algorithm and some coin algorithm was shown.
+ - Growth of functions and the Big-O notation was introduced.
+ - There are witnesses in growth of functions which are constants called C and k.
+
+#Week 10
+ - Growth of functions have expanded to Big-theta and Big-omega.
+ - Big-omega is the lower bound to a function.
+ - Big-theta is somewhat confusing because it is the combination of big-O and big-omega.
+ - Time complexity is the number of operations a algorithm takes. It is very confusing.
+
+#Week 11 
+ - Graph Theory starts here. 
+ - it is a somewhat easier topic than those in the past.
+ - a graph is consists of an edge with vertices.
+ - a degree is the number of edges are connected to a vertex.
+ - Eulers read as -> oilers.
+ - Path is finishing a certain path once.
+ - Circuit is like a path but going back to the initial.
