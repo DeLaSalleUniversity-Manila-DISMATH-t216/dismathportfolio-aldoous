@@ -45,13 +45,21 @@ John Aldous A. Galay
    - They are false if a single element is false.
 
 #Week 4
+ - learned basic concepts about proof and how to build arguments.
  - learned some more methods of proving such as direct proof and proof by contrapositive.
- - 
+  - direct proof is assuming that p is true and showing that q is true using the first assumption.
+  - indirect proof is assuming the negation of p is true and showing that the negation of q is true using the first assumption. Basically, the opposite of a direct proof.
+  - learned about more types of proofs:
+    - Vacuous Proof is showing that p is false, because p → q must be true when p is false.
+    - Trivial Proof is showing  that q is true because p → q must also be true.
 
 #week 5
- - continued with more problems from last week...
- - and discovered how to prove by contradiction by showing that the negation of a premise is contradictory.
+ - continued with more problems from last week... and learned about the proof by contradiction.
+  - it is to show that the negation of a premise is true and lead to a contradiction.
  - learned about mathematical induction and recursive functions. <- they're confusing.
+  - For Induction: Basis Step, then do an Inductive Step using the Direct proof.
+  - For Recursive: Basis step, then the recursive step.
+ - To prove having program correctness you would need: initial assertion, final assertion, and a segment.
 
 #Week 6
  - introduction to sets which is easier than the previous lessons, though only by a little.
