@@ -99,3 +99,28 @@ John Aldous A. Galay
  - Eulers read as -> oilers.
  - Path is finishing a certain path once.
  - Circuit is like a path but going back to the initial.
+ - A Euler Circuit is a simple circuit that contains every edge of a graph.
+  - nodes have all even degrees.
+ - A Euler Path is a simple path than contains every edge of a graph.
+  - exactly two nodes must be odd.
+ - A Hamilton Circuit is a simple circuit that contains every node or vertex of a graph.
+ - A Hamilton Path is a simple path that contains every node or vertex of a graph.
+ - if two graphs have similar number of nodes then they are isomorphic.
+ - Planar graphs do not have any edge that crosses with each other.
+ - Nonplanar graphs can be known through Kuratowski's theorem which states that it must have a subgraph homeomorphic to a K33 or a K5 graph.
+
+#Week 12
+ - This is the last week of regular classes. 
+ - We continued to study about graphs.
+ - To color graphs, two adjacent edges must be colored with a different color.
+ - Chromatic number is the least number of colors that can be assigned to a graph. 
+ - Planar graphs follow the Four Color Theorem which states that it has a chromatic number of no greater than four.
+ - Nonplanar graphs may have higher chromatic numbers.
+ - A tree is a graph with no circuits. Parts/Terminology for a tree:
+  - Roots
+  - Parent
+  - Child
+ - If there are two or more trees then it is called a forest.
+ - Leaves are those who do not have a child.
+ - M-ary trees are trees that have m number of children at each node.
+  - if it is a 2-ary tree, it is called a binary tree.
